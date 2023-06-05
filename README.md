@@ -14,7 +14,7 @@ I am always seeking new challenges that allow me to utilize my experience and sk
 • Good knowledge of agile software development methodologies: Scrum and Kanban;\
 • Experience working in small and large remote distributed teams;\
 • Experience with cloud technologies, mainly with AWS services such as EC2, S3, Route53, CloudWatch, and SQS;\
-• Strong knowledge of OOP, design patterns, designing application systems from scratch, and database modeling.\
+• Strong knowledge of OOP, design patterns, designing application systems from scratch, and database modeling.
 
 📚 What am I studying?\
 I am studying Data Science for Business to build bridges between the business and technical areas. The course covers technology, statistics, and business knowledge.
