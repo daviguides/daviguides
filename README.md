@@ -33,6 +33,10 @@ I thrive in projects that offer constant growth opportunities and challenges, pa
 
 😄 Pronouns: He/Him 🌈
 
+😻 Fun fact: I have a beautiful black cat who sometimes shows up to say hello in meetings or do some pair programming with me.
+
+![cat.jpeg](cat.jpeg)
+
 <!--
 **daviguides/daviguides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
