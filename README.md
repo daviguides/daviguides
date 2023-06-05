@@ -22,7 +22,7 @@ I am studying Data Science for Business to build bridges between the business an
 ⏭️ Furthermore what now?\
 If you have any questions or want to talk to me, feel free to send me an inbox message. 
  
-Here's my linkedin profile (@daviguides)[https://www.linkedin.com/in/daviguides/]
+Here's my linkedin profile [@daviguides](https://www.linkedin.com/in/daviguides/)
 
  ![cover.jpg](cover.jpg)
 
