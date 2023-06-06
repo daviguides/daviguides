@@ -22,6 +22,7 @@
 If you have any questions or want to talk to me, feel free to send me an inbox message. 
  
 💬 Here's my linkedin profile [@daviguides](https://www.linkedin.com/in/daviguides/)
+💬 And Link to my [Profile](https://daviguides.github.io/)
 
  ![cover.jpg](cover.jpg)
 
