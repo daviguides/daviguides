@@ -1,9 +1,5 @@
 ## Hello everyone 👋 <img src="images/avatar.jpeg" alt="Davi Picture" align="right" style="width: 150px"/>
 
-Based on your updated LinkedIn "About" section, here’s a refined version of your GitHub "About" that highlights your strengths, experience, and continuous learning approach:
-
----
-
 👋 Hi, I'm **Davi** — a seasoned **Staff Software Engineer** with over 20 years in the IT industry, specializing in backend development. My primary focus is on Python (16+ years), SQL (20+ years), and AWS (12+ years), where I excel in building scalable, high-performance systems. I am passionate about driving innovation, optimizing systems, and leveraging my comprehensive experience to solve complex technical challenges and deliver impactful results.
 
 ### 🚀 Core Skills & Expertise
