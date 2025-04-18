@@ -1,4 +1,5 @@
 <img src="images/avatar.jpg" alt="Davi Picture" align="right" style="width: 150px"/>
+
 ## Hello everyone 👋
 
 👋 Hi, I'm **Davi** — a **Staff Software Engineer** with over 21 years of experience in backend engineering, platform resilience, and data engineering. I specialize in **Python**, **SQL**, **AWS**, and **scalable system architecture**.
