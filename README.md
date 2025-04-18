@@ -1,58 +1,64 @@
-## Hello everyone 👋 <img src="images/avatar.jpeg" alt="Davi Picture" align="right" style="width: 150px"/>
+<img src="images/avatar.jpg" alt="Davi Picture" align="right" style="width: 150px"/>
+## Hello everyone 👋
 
-👋 Hi, I'm **Davi** — a seasoned **Staff Software Engineer** with over 20 years in the IT industry, specializing in backend development. My primary focus is on Python (16+ years), SQL (20+ years), and AWS (12+ years), where I excel in building scalable, high-performance systems. I am passionate about driving innovation, optimizing systems, and leveraging my comprehensive experience to solve complex technical challenges and deliver impactful results.
+👋 Hi, I'm **Davi** — a **Staff Software Engineer** with over 21 years of experience in backend engineering, platform resilience, and data engineering. I specialize in **Python**, **SQL**, **AWS**, and **scalable system architecture**.
 
-### 🚀 Core Skills & Expertise
+_I'm focused on delivering **high-performance, reliable, and pragmatic solutions** that drive real business value._
 
-- **Python & Backend Development**: 16+ years of experience with Python, coupled with deep knowledge in SQL, Shell Scripting, and various backend frameworks like Flask, Celery, RabbitMQ, and FastAPI.
-- **Cloud Computing**: Proficient in leveraging a wide range of AWS services, including AWS Lambda, S3, EC2, CloudFront, CloudWatch, Redshift, and more, to build robust, scalable cloud solutions.
-- **Data Management & Integration**: Expertise in managing diverse data stores such as MongoDB, Redis, RabbitMQ, MySQL, PostgreSQL, and Elasticsearch, ensuring seamless data operations and scalability.
-- **Containerization & CI/CD**: Advanced knowledge of Docker, Docker Swarm, and Kubernetes for efficient container management and deployment. Skilled in implementing CI/CD pipelines to streamline development processes.
+### 🚀 Core Expertise
 
-### 🌟 Professional Background & Leadership
+- **Backend Engineering**: 17+ years with Python. Deep experience with SQL, Shell Scripting, FastAPI, Flask, Celery, and RabbitMQ.
+- **Cloud & Platform**: 12+ years working with AWS (Lambda, S3, EC2, CloudFront, Redshift, CloudWatch, etc.). Skilled in designing cloud-native, resilient architectures.
+- **Data Engineering**: Experience with MongoDB, Redis, RabbitMQ, PostgreSQL, MySQL, Elasticsearch. Strong focus on **data pipelines**, **observability**, and **system health**.
+- **Infrastructure & CI/CD**: Advanced use of Docker, Docker Swarm, Kubernetes. Automation of deployments, testing, and operations through CI/CD pipelines.
 
-- **Leadership & Mentorship**: Proven ability to lead and mentor remote teams, managing projects of varying sizes and complexities with a focus on enhancing team productivity through Agile methodologies.
-- **Design & Architecture**: Strong foundation in Domain-Driven Design (DDD), design patterns, and system design principles, including Big O notation for time and space complexity, ensuring robust software architecture.
+---
 
-### 📚 Continuous Learning & Development
+### 🛠️ Key Strengths
 
-- **Lifelong Learner**: Committed to staying updated with the latest advancements in software engineering and development practices. Currently expanding my knowledge in **Data Science for Business** to bridge the gap between technical and business strategies.
+- **Architecture & System Design**: Expertise in Domain-Driven Design (DDD), design patterns, system scalability, and performance optimization.
+- **Leadership**: Lead cross-functional and remote teams. Mentor engineers, drive technical excellence, and align development efforts with business goals.
+- **Problem-Solving Mindset**: Always focused on impact: "What problem are we solving? What value does it create? What is the best way to maximize it?"
 
-### 🎯 Let's Connect
+---
 
-I'm always open to discussing new challenges, opportunities, or collaborations. Feel free to reach out if you'd like to connect or learn more about my work!
+### 📚 Continuous Evolution
 
-⏭️ Furthermore: \
-If you have any questions or want to talk to me, feel free to send me an inbox message.
+- **Lifelong Learning**: Constantly upgrading skills, currently deepening knowledge in **Data Engineering** and **Data Science for Business** applications.
+- **Adaptability**: Highly resilient, curious, and pragmatic professional — thriving in fast-paced, challenging environments.
 
-💬 Here's my linkedin profile [@daviguides](https://www.linkedin.com/in/daviguides/)\
-And Link to my [Profile](https://daviguides.github.io/)
+---
 
- ![cover.jpg](images/cover.jpg)
+### 🤝 Let's Connect
 
-👨‍💻 I am a very curious and proactive professional with a great capacity to absorb new knowledge. I always seek to think creatively, practically, and systematically to achieve the most relevant results for the business. I always ask myself: What pain are we addressing here? How much value and differentiation will this add to the company? If the answer is positive, I try to understand which part of the whole will bring the greatest impact. Whether alone or in a group, it is a pleasure to accomplish and see things happen.
+I'm open to discussing new projects, consulting, technical leadership roles, or collaboration opportunities.
 
-As a neurodivergent person with Giftedness, my hyperfocus and commitment are focused on continuous learning and improvement, respecting both my uncommon abilities, such as divergent deep thinking, whole-detail perspective, integration of opposing ideas and perspectives, among others, and the limitations of my condition, such as hyperesthesia and hypersensitivities, among others.
+💬 Find me on [LinkedIn](https://www.linkedin.com/in/daviguides/) \
+🌐 Visit my [Portfolio](https://daviguides.github.io/)
 
-I thrive in projects that offer constant growth opportunities and challenges, particularly those with a data-driven, pragmatic, ethical, and pluralistic decision-making approach.
+---
 
-😄 Pronouns: He/Him 🌈
+<img src="images/cover.jpg" alt="Davi Picture" align="right" style="width: 500px"/>
 
-😻 Fun fact: I have a beautiful black cat who sometimes shows up to say hello in meetings or do some pair programming with me.
+### 🌟 Personal Note
 
-![cat.jpeg](images/cat.jpeg)
+_I combine **deep technical expertise** with **systemic business thinking**.
+As a **gifted** and **neurodivergent** professional, I bring hyperfocus, divergent thinking, and whole-detail integration to everything I do — while managing sensory sensitivities and ensuring balance._
 
-<!--
-**daviguides/daviguides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_I excel in environments that value **data-driven**, **pragmatic**, **ethical**, and **pluralistic** approaches to decision-making.
+**I love seeing things happen and making a real difference.**_
 
-Here are some ideas to get you started:
+## Summary
+> High impact. Deep thinking. Relentless execution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<img src="images/cat.jpeg" alt="Davi Picture" align="right" style="width: 300px"/>
+
+### 🕹️ Fun Fact
+
+- I wrote my first lines of code when I was around 9 years old, using FrontPage and the Logo programming language.
+
+- I have a beautiful black cat who sometimes shows up to say hello in meetings or do some pair programming with me.
+
+- I have a **alias** or **shell script** for almost everything in my dev env.
