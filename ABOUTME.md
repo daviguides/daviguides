@@ -51,7 +51,7 @@ In work and in life, I seek the quiet strength of systems that **breathe, adapt,
 
 ## ✨ Guiding Quote
 
-> _“In the beginner’s mind there are many possibilities, in the expert’s mind there are few.”_
+> _“In the beginner’s mind there are many possibilities, in the expert’s mind there are few.”_  
 > — **Shunryu Suzuki, Zen Mind, Beginner’s Mind**
 
 Still learning how to express many possibilities in just a few words — the paradox of a curious mind growing through simplicity.
