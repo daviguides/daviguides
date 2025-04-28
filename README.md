@@ -13,7 +13,7 @@ Staff Software Engineer | Backend Systems | Platform Resilience | Data Engineeri
 
 ### 📝 Philosophy
 
-**Meaningful systems grow from awareness, responsibility, and care.**
+**Meaningful systems grow from awareness, responsibility, and care.**<br/>
 Simplicity, resilience, and organic discipline — in code, systems, and design.
 
 > _Building systems that not only work — but evolve, empower, and endure._
