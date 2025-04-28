@@ -1,26 +1,27 @@
 # Hi, I'm Davi Guides 👋
 
-Staff Software Engineer | Platform Resilience | Data Engineering | Cloud Architectures
+Staff Software Engineer | Backend Systems | Platform Resilience | Data Engineering | Cloud Architectures
 
 ### 🧠 About Me
 
 - **21+ years** building backend systems, cloud platforms, and resilient data pipelines.
 - Expertise in **Python**, **SQL**, **AWS**, **FastAPI**, **Kubernetes**, **Terraform**, and **observability**.
 - Blend of **staff-level experience**, **senior mindset**, and **beginner’s curiosity**.
-- Focused on **scalable**, **secure**, and **data-driven** solutions that evolve with the business.
+- Focused on **scalable**, **resilient**, **high-performance**, and **secure** solutions that evolve with the business.
 
 > _Calm but awake. Strong but adaptable. Sophisticated but accessible._
 
 ### 📝 Philosophy
 
-**Security comes from awareness, not rigidity.**
+**Meaningful systems grow from awareness, responsibility, and care.**
 Simplicity, resilience, and organic discipline — in code, systems, and design.
 
 > _Building systems that not only work — but evolve, empower, and endure._
 
 - [📚 My Portfolio](https://daviguides.github.io/)
+- [📄 Read Me Extended Profile](./ABOUTME.md) — A deeper look into my journey, principles, and fun facts.
 - [🔒 Zero Trust Local Environment Manifesto](https://daviguides.github.io/articles/devsecops/2025/04/25/zero-trust-manifest.html)
-- [📄 Extended Profile](./ABOUTME.md) — A deeper look into my journey, principles, and fun facts.
+
 
 ---
 
