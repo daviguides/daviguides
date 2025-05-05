@@ -32,6 +32,15 @@ Simplicity, resilience, and organic discipline — in code, systems, and design.
 🧠 **Core Tech**: Python, Flask, FastAPI, gRPC, Kafka, PySpark, PostgreSQL  
 📦 **Highlights**: Modular APIs, async + sync services, ETL with EDI parsing, cloud-ready architecture
 
+### 🔗 Related Extensions
+
+- [sftp2s3](https://github.com/daviguides/sftp2s3):  
+  Syncs inbound `.edi` files from SFTP to S3 — designed to feed the ETL pipeline of Care Gateway.
+
+- [eks-ec2-cdk-react-dns-demo](https://github.com/daviguides/eks-ec2-cdk-react-dns-demo):  
+  Deploys an EKS cluster (EC2) via CDK, with Route 53 DNS and app containers.  
+  A natural next step: containerize and deploy the full Care Gateway stack to this cluster.
+
 ---
 
 <p align="left">
