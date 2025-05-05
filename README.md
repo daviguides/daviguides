@@ -39,7 +39,10 @@ Simplicity, resilience, and organic discipline — in code, systems, and design.
 
 - [eks-ec2-cdk-react-dns-demo](https://github.com/daviguides/eks-ec2-cdk-react-dns-demo):  
   Deploys an EKS cluster (EC2) via CDK, with Route 53 DNS and app containers.  
-  A natural next step: containerize and deploy the full Care Gateway stack to this cluster.
+  Ideal base for deploying the full Care Gateway stack with GitOps or Helm.
+
+- [keysentinel](https://github.com/daviguides/keysentinel):  
+  Secure local token manager with layered encryption — great for CLI tools and secrets hygiene in dev pipelines.
 
 ---
 
