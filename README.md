@@ -22,6 +22,15 @@ Simplicity, resilience, and organic discipline — in code, systems, and design.
 - [📄 Read Me Extended Profile](./ABOUTME.md) — A deeper look into my journey, principles, and fun facts.
 - [🔒 Zero Trust Local Environment Manifesto](https://daviguides.github.io/articles/devsecops/2025/04/25/zero-trust-manifest.html)
 
+## 🩺 Featured Project: Care Gateway
+
+> **A full-stack healthtech simulation built to demonstrate API design, data engineering, and cloud-ready integration.**  
+> From gRPC to Kafka, from REST APIs to ETL with Spark — built to reflect clarity, modularity, and real-world use.
+
+[🔗 Explore the Repository →](https://github.com/daviguides/care-gateway)
+
+🧠 **Core Tech**: Python, Flask, FastAPI, gRPC, Kafka, PySpark, PostgreSQL  
+📦 **Highlights**: Modular APIs, async + sync services, ETL with EDI parsing, cloud-ready architecture
 
 ---
 
